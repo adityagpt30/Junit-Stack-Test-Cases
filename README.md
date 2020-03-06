@@ -1,1 +1,1 @@
-# Junit-Stack-Test-Cases
+Java programming language that implements the Abstract Data Type - the Stack ( creating and adding integers to a Stack). Typically having create, push, pop, and isEmpty methods. Used JUnit (version5.x) to create a test suite for testing the class.
